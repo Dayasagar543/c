@@ -9,5 +9,16 @@ int main()
     {
         printf("%d \n", i);
     }
+
+    for (float i = 0; i <= number; i++)
+    {
+        printf("%f \n", i);
+    }
+
+    for (char ch = 'A'; ch <= 'z'; ch++)
+    {
+        printf("%c \n", ch);
+    }
+
     return 0;
 }
