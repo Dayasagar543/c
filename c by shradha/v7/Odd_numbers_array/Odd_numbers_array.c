@@ -5,6 +5,8 @@ int main()
 {
     int array[] = {34, 54, 66, 55, 33, 22, 78};
     count_odds(array, 7);
+    printf("%d\n", *(array + 2));
+    printf("%d\n", *(array + 5));
     return 0;
 }
 int count_odds(int array[], int n)
