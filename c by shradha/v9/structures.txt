@@ -1,0 +1,2 @@
+structures are the data types that can hold different types of data like int ,char, string,varchar any like you can hold that data in the structures or objects or you can call 
+them as documents interms of mongodb.
