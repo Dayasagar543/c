@@ -1,0 +1,4 @@
+malloc()-memory allocation
+calloc()-continuous allocation
+free()
+realloc()
